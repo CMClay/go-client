@@ -1,0 +1,14 @@
+{
+  "name": "go-client",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Clay <colin@rets.ly> (https://github.com/CMClay)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.3"
+  }
+}
